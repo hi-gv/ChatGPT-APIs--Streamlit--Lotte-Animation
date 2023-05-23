@@ -5,3 +5,6 @@ Using Streamlit and ChatGPT APIs to with below features.
 - Python Explainer
 - SQL Query Maker
 - Sentiment Analyser
+
+
+![Snapshot](Snapshot.jpg)
