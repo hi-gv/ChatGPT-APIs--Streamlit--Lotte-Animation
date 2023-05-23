@@ -7,4 +7,4 @@ Using Streamlit and ChatGPT APIs to with below features.
 - Sentiment Analyser
 
 
-![Snapshot](Snapshot.jpg)
+![Snapshot](snapshot.jpg)
